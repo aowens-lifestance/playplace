@@ -16,13 +16,15 @@
 - [ ] This change requires a documentation update
 - [ ] I have made corresponding changes to the documentation (if necessary)
 
-<!-- Link to documentation -->
+* Link(s) to documentation: (if needed)
+
 
 ## Related Pull Requests
 
-<!-- Are there any other PRs whose merge order is important? -->
+* Are there any other PRs whose merge order is important?  If so, link them here:
 
-* **Other information?**
+
+## Other information
 - [ ] Bug fix (non-breaking change which fixes an issue)
 - [ ] New feature (non-breaking change which adds functionality)
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
