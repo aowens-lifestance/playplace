@@ -12,7 +12,7 @@
 - [ ] I have made sure that new and existing unit tests pass locally with my changes
 - [ ] I have tested features manually
 - [ ] I have run overcommit which ran successfully locally
-- [ ] I have updated JIRA Ticket with pertinent information?
+- [ ] I have updated JIRA Ticket with pertinent information
 - [ ] I have made corresponding changes to the documentation (if necessary)
 - [ ] My code follows the style guidelines of this project (Clean Rubocop on affected files)
 
